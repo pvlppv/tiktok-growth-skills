@@ -1,0 +1,20 @@
+# accounts.txt — one TikTok account per line, in the order you want them dealt.
+#
+#   handle          device name (any words)   route (optional, default telegram)
+#
+# handle  : the TikTok handle, with or without @. Must match the Postiz channel's
+#           profile (postiz route) or the farm's account list (farm route).
+# device  : the phone the account lives on. Accounts on the same device are dealt
+#           together, so one phone gets a mix of formats, never a block of one.
+#           For the farm route it must equal the farm's device name exactly.
+# route   : telegram = album sent to your Telegram chat, someone posts it by hand
+#           postiz   = booked as a TikTok inbox draft through Postiz Cloud
+#           farm     = pushed as a one-shot task to an iPhone farm
+#
+# Anything after # is a comment. Blank lines are skipped.
+
+demo.account.one      phone 1
+demo.account.two      phone 1    postiz
+demo.account.three    phone 2
+demo.account.four     phone 2    postiz
+demo.account.five     phone 3    farm

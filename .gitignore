@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+out/
+.DS_Store
+growth-data/
+accounts.txt

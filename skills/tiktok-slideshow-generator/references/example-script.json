@@ -1,0 +1,14 @@
+{
+  "id": "desk-reset-five-steps",
+  "cover": ["the 10 minute desk reset\nI do every friday", "(it fixes monday)"],
+  "slides": [
+    {"head": "1. clear everything off", "body": "all of it, onto the floor. you only put back what earns a spot"},
+    {"head": "2. wipe it down", "body": "a damp cloth and two minutes. the surface looks new again"},
+    {"head": "3. one notebook, one pen", "body": "everything else lives in a drawer until you need it"},
+    {"head": "4. cables out of sight", "body": "a single clip under the edge does most of the work"},
+    {"head": "5. set up monday", "body": "leave the first task open and the chair pushed in"},
+    {"head": "save this for friday"}
+  ],
+  "caption": "what is on your desk right now?",
+  "hashtags": ["deskreset", "workspace"]
+}

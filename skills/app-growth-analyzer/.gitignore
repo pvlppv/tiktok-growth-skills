@@ -1,0 +1,4 @@
+# never publish your data, handles or keys
+.env
+growth-data/
+accounts.txt

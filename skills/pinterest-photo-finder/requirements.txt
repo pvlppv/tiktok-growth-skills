@@ -1,0 +1,4 @@
+numpy>=1.24
+Pillow>=10.1
+pillow-heif>=0.13  # optional: reads HEIC pins without macOS sips
+pyobjc-framework-Vision>=10; sys_platform == "darwin"  # optional: crop-proof dedup on macOS

@@ -1,0 +1,6 @@
+numpy>=1.24
+Pillow>=10.1
+scipy>=1.10
+pillow-heif>=0.13  # optional: reads HEIC photos
+pyobjc-framework-Vision>=10; sys_platform == "darwin"   # faces, people, text, objects, saliency
+pyobjc-framework-Quartz>=10; sys_platform == "darwin"

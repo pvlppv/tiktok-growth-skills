@@ -1,0 +1,4 @@
+PyJWT[crypto]>=2.8     # App Store Connect token (ES256)
+yt-dlp                 # posts.py: public per-post stats, also a CLI on PATH
+numpy                  # formats.py
+statsmodels            # formats.py: OLS + intervals
